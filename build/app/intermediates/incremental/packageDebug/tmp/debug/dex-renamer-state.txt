@@ -1,4 +1,4 @@
-#Sun Feb 20 07:16:56 GMT 2022
+#Sun Feb 20 07:26:57 GMT 2022
 base.0=/home/paul/StudioProjects/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
